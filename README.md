@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+  <h1>¡Hola! Soy Benjamín Villaseca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h3>Analista Programador | Estudiante de Ingeniería en Ciberseguridad</h3>
+  <p><i>"Siempre en busca de más conocimiento y potenciando el desarrollo con IA"</i></p>
+</div>
 
-<!--
-**naxxi2u/naxxi2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo **21 años** y soy egresado de **Analista Programador**. Actualmente, estoy especializándome académica y profesionalmente cursando **Ingeniería en Ciberseguridad**.
+
+Me caracterizo por ser un estudiante perpetuo y un profesional colaborativo. Tengo conocimientos en metodologías ágiles como **Scrum** y facilito el ambiente laboral con un sólido **trabajo en equipo**.
+
+Además, investigo activamente cómo integrar la **Inteligencia Artificial** en mis flujos de trabajo, mejorando la ingeniería de prompts para ser más eficiente.
+
+<br>
+
+<img src="https://api.iconify.design/heroicons-solid/terminal.svg?color=%23768390" width="20" height="20" alt="learning" valign="middle" /> <b>Actualmente aprendiendo:</b> Astro Strapi.
+<br>
+<img src="https://api.iconify.design/heroicons-solid/shield-check.svg?color=%23768390" width="20" height="20" alt="security focus" valign="middle" /> <b>Enfoque de estudio:</b> Ciberseguridad y administración de servidores.
+<br>
+<img src="https://api.iconify.design/heroicons-solid/users.svg?color=%23768390" width="20" height="20" alt="teamwork" valign="middle" /> <b>Soft Skills:</b> Scrum, Trabajo en equipo y Adaptabilidad.
+
+<br clear="all">
+
+---
+
+### 🛠️ Stack Tecnológico & Herramientas
+
+#### 💻 Lenguajes y Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+</p>
+
+#### 🎨 Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
+
+#### 🗄️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### ⚙️ Sistemas, Metodologías & Ciberseguridad
+<p>
+  <img src="https://img.shields.io/badge/Scrum-005696?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
+---
