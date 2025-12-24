@@ -9,25 +9,26 @@
 ### 👨‍💻 Sobre mí
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-Tengo **21 años** y soy egresado de **Analista Programador**. Actualmente, estoy especializándome académica y profesionalmente cursando **Ingeniería en Ciberseguridad**.
+Tengo **21 años**. He completado los **2 primeros años de mi carrera**, lo que me habilita como **Analista Programador**, y actualmente continúo mis estudios hacia la **Ingeniería en Ciberseguridad**.
 
-Me caracterizo por ser un estudiante perpetuo y un profesional colaborativo. Tengo conocimientos en metodologías ágiles como **Scrum** y facilito el ambiente laboral con un sólido **trabajo en equipo**.
+Me identifico con el **Vibe Coding**: combino mi lógica con herramientas de IA para desarrollar soluciones. Mi enfoque no es la memorización de sintaxis, sino la capacidad de adaptación y aprendizaje continuo ("Learning by doing").
 
-Además, investigo activamente cómo integrar la **Inteligencia Artificial** en mis flujos de trabajo, mejorando la ingeniería de prompts para ser más eficiente.
+Además, facilito el ambiente académico y laboral con metodologías ágiles como **Scrum** y un sólido **trabajo en equipo**.
 
 <br>
 
-<img src="https://api.iconify.design/heroicons-solid/terminal.svg?color=%23768390" width="20" height="20" alt="learning" valign="middle" /> <b>Actualmente aprendiendo:</b> Astro Strapi.
+<img src="https://api.iconify.design/heroicons-solid/terminal.svg?color=%23768390" width="20" height="20" alt="learning" valign="middle" /> <b>Actualmente profundizando en:</b> Astro, Strapi y Wagtail.
 <br>
 <img src="https://api.iconify.design/heroicons-solid/shield-check.svg?color=%23768390" width="20" height="20" alt="security focus" valign="middle" /> <b>Enfoque de estudio:</b> Ciberseguridad y administración de servidores.
 <br>
-<img src="https://api.iconify.design/heroicons-solid/users.svg?color=%23768390" width="20" height="20" alt="teamwork" valign="middle" /> <b>Soft Skills:</b> Scrum, Trabajo en equipo y Adaptabilidad.
+<img src="https://api.iconify.design/heroicons-solid/sparkles.svg?color=%23768390" width="20" height="20" alt="vibe coding" valign="middle" /> <b>Filosofía:</b> Vibe Coding, Prompt Engineering & AI Integration.
 
 <br clear="all">
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### 🧰 Tecnologías en Desarrollo & Exploración
+<p><i>Durante mis años de formación he explorado y trabajado académicamente con las siguientes herramientas, y sigo perfeccionando mi dominio sobre ellas:</i></p>
 
 #### 💻 Lenguajes y Backend
 <p>
@@ -44,7 +45,7 @@ Además, investigo activamente cómo integrar la **Inteligencia Artificial** en 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -53,11 +54,11 @@ Además, investigo activamente cómo integrar la **Inteligencia Artificial** en 
 #### 🗄️ Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### ⚙️ Sistemas, Metodologías & Ciberseguridad
+#### ⚙️ Sistemas y Metodologías
 <p>
   <img src="https://img.shields.io/badge/Scrum-005696?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
